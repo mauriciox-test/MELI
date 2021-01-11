@@ -1,4 +1,5 @@
 //toda la logica se escribe en app.js
+//hay que cambiar la logica
 
 const express = require('express');//servicio web
 const app = express();
